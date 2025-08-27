@@ -1,0 +1,9 @@
+streamlit
+coqui-tts
+openai
+pydub
+soundfile
+matplotlib
+fastapi
+uvicorn
+
