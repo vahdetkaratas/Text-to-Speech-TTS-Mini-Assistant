@@ -55,7 +55,9 @@ Thumbs.db
 # Audio artifacts and temporary files
 *.wav
 *.mp3
+# PNG files (except docs/screenshot-ui.png)
 *.png
+!docs/screenshot-ui.png
 out/
 tmp/
 temp/
