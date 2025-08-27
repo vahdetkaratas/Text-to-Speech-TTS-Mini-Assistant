@@ -52,3 +52,11 @@ Thumbs.db
 .env
 .env.*
 
+# Audio artifacts and temporary files
+*.wav
+*.mp3
+*.png
+out/
+tmp/
+temp/
+

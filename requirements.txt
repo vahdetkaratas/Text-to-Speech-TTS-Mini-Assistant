@@ -1,9 +1,11 @@
 streamlit
-coqui-tts
+gTTS
 openai
+coqui-tts
 pydub
 soundfile
 matplotlib
-fastapi
-uvicorn
+numpy
+pytest
+python-dotenv
 
