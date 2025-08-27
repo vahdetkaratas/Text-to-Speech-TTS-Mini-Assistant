@@ -144,7 +144,7 @@ streamlit run src/app.py
 
 ### Screenshot
 
-![TTS Mini Assistant UI](docs/screenshot.png)
+![TTS Mini Assistant UI](docs/screenshot-ui.png)
 
 *Screenshot shows the Streamlit interface with language selection, engine options, and audio controls.*
 
